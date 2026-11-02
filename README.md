@@ -48,7 +48,7 @@
 
 屏幕中心同心圆环，光点在接近拍点时浮现。三种玩法：同心圆环、下落按键、太鼓对拍；蓝绿流光、粒子、敲击震屏，配洛天依舞台封面。
 
-[▶ 在线玩](https://2755579.github.io/rhythm-four-rings/) · [📱 APK](https://2755579.github.io/rhythm-four-rings/)
+[▶ 在线玩](https://2755579.github.io/rhythm-four-rings/) · [📱 下载 APK](https://github.com/2755579/rhythm-four-rings/releases/tag/v3.2)
 
 </td>
 <td width="50%" valign="top">
