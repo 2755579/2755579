@@ -46,9 +46,9 @@
 
 **🎯 律动四环** · `HTML5 Canvas` `Web Audio` `Android`
 
-屏幕中心同心圆环，光点在接近拍点时浮现。三种玩法：同心圆环、下落按键、太鼓对拍；蓝绿流光、粒子、敲击震屏，配洛天依舞台封面。
+屏幕中心同心圆环，光点在接近拍点时浮现。四种玩法：同心圆环、下落按键、太鼓对拍、Phigros 判定线（十种玩法轮转）；天依蓝 66CCFF 主题、粒子与敲击震屏，配洛天依 Q 版贴纸图标。
 
-[▶ 在线玩](https://2755579.github.io/rhythm-four-rings/) · [📱 下载 APK](https://github.com/2755579/rhythm-four-rings/releases/tag/v3.2)
+[▶ 在线玩](https://2755579.github.io/rhythm-four-rings/) · [📱 下载 APK](https://github.com/2755579/rhythm-four-rings/releases/tag/v3.3)
 
 </td>
 <td width="50%" valign="top">
